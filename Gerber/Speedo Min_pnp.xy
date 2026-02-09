@@ -1,0 +1,55 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=Speedo Min
+# Date=14:26:27
+# CreatedBy=Fritzing 1.0.2b.2023-12-20.CD-1901-0-dbdbe34c
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+Via16,";;;;;;;;","",3924.45,112.154,0,Top,MANUAL
+Via24,";;;;;;;;","",3473.94,236.497,0,Top,MANUAL
+J4,";;;;;;;;","THT",1349.45,212.154,90,Top,THT
+Jumper1,";;;;;;;;","",1449.45,1162.15,0,Top,MANUAL
+Via3,";;;;;;;;","",1474.45,562.154,0,Top,MANUAL
+Via9,";;;;;;;;","",3074.45,312.154,0,Top,MANUAL
+Via15,";;;;;;;;","",1791.59,982.013,0,Top,MANUAL
+J2,";;;;;;;;","THT",674.454,2137.15,-90,Top,THT
+Via10,";;;;;;;;","",1674.45,1762.15,0,Top,MANUAL
+Via1,";;;;;;;;","",3615.59,1654.01,0,Top,MANUAL
+J1,";;;;;;;;","THT",3349.45,2162.15,90,Top,THT
+J3,";;;;;;;;","THT",1074.45,2137.15,-90,Top,THT
+Via13,";;;;;;;;","",1815.59,1054.01,0,Top,MANUAL
+Via23,";;;;;;;;","",3549.45,2037.15,0,Top,MANUAL
+GPS,";;;;;;;;","",2125.96,711.939,90,Top,MANUAL
+D1,";;;;;;;;","300 mil [THT]",2950.45,2212.15,180,Top,THT
+Via20,";;;;;;;;","",3274.45,1037.15,0,Top,MANUAL
+Motor Controller,";;;;;;;;","",873.587,1562.15,-90,Top,MANUAL
+Via11,";;;;;;;;","",3124.45,937.154,0,Top,MANUAL
+Level Shifter,";;;;;;;;","",2074.5,1637.12,-90,Top,MANUAL
+I2C Multiplexer,";;;;;;;;","",799.454,737.154,90,Top,MANUAL
+Via14,";;;;;;;;","",2775.59,1198.01,0,Top,MANUAL
+Arduino Nano Every,";;;;;;;;","",3174.45,1187.49,180,Top,MANUAL
+Via25,";;;;;;;;","",1599.17,1512.56,0,Bottom,MANUAL
+FRAM,";;;;;;Adafruit #1897;;","",3924.45,1637.15,90,Top,MANUAL
+Via19,";;;;;;;;","",1999.45,2062.15,0,Top,MANUAL
+J5,";;;;;;;;","THT",599.454,212.154,90,Top,THT
+J7,";;;;;;;;","THT",1099.45,212.154,90,Top,THT
+J8,";;;;;;;;","THT",849.454,212.154,90,Top,THT
+C1,";100nF;;35V;;;;;","200 mil [THT, multilayer]",2949.45,2087.15,0,Top,THT
+Via2,";;;;;;;;","",1874.45,2212.15,0,Top,MANUAL
+Real-time Clock,";;;;;;;;","",3924.45,737.154,90,Top,MANUAL
+Via6,";;;;;;;;","",1143.59,910.013,0,Top,MANUAL
+Via4,";;;;;;;;","",1359.59,958.013,0,Top,MANUAL
+J6,";;;;;;;;","THT",349.454,212.154,-90,Top,THT
+Via22,";;;;;;;;","",3824.45,1787.15,0,Top,MANUAL
+F2,";;;;;;;;","ptc",3724.45,2162.15,180,Top,SMT
+Via21,";;;;;;;;","",3275.77,838.033,0,Bottom,MANUAL
+Via5,";;;;;;;;","",1815.59,550.013,0,Top,MANUAL
