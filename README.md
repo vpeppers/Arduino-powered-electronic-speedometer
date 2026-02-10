@@ -1,5 +1,6 @@
 # Arduino-powered-electronic-speedometer
 All the files needed to recreate the electronic speedometer I created for my classic car.
+THIS IS A WORK-IN-PROGRESS.  IT HAS NOT BEEN TESTED YET!
 
 I built this speedometer for my classic car.  Being 62 years old, the speedometer was dubious at best.  The needle twitched and bounced, and was unreliable in reporting speed.  I decided to replace the inner workings with all electronic ones.  I tried at first to use a Hall effect sensor, but ran into a programming problem that I was never able to figure out.  I then turned to GPS positioning, and the programming turned out to be doable.  The active part of the speedometer is a motor from a modern speedometer.  The odometer and the trip odometer are both OLED displays.  Since the two odometers are separated by the needle shaft, I was required to use two OLED's.  Should you decide to build one yourself, and your speedometer doesn't have the needle shaft between the two odometers, you will be able to use one OLED screen, and just program the one screen to show both amounts.  The heart of the device is an Arduino Nano Every.  This was chosen for its small size, higher clock speed, and multiple Serial ports, so that Software Serial was not needed.  It also can handle the higher voltage of the auto electrical system as a power source.
 
